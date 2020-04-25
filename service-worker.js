@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1ec2786d86a549d9520a9230ffeff48e.js"
+  "/precache-manifest.9fd6415b8ca6ec80f30cf119d7f2d937.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "monopoly-vue"});
