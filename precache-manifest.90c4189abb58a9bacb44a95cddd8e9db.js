@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96f366d23a1fb0df7cd7",
-    "url": "/css/app.74b688cf.css"
+    "revision": "697eac0bd53cd78c242a",
+    "url": "/css/app.185aadf7.css"
   },
   {
     "revision": "e3291f33a1ec2425a17ac70be005d67b",
@@ -12,44 +12,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/1580653594_3-p-foni-s-teksturoi-pergamentnogo-lista-9.20118a32.jpg"
   },
   {
-    "revision": "2c0eed72e37e734bf147c049b24f53a2",
-    "url": "/img/card1.2c0eed72.png"
+    "revision": "1fba562cbf4a1ca5667bcb8e7067d403",
+    "url": "/img/card1.1fba562c.svg"
   },
   {
-    "revision": "c421e57fb171e14b635f52e7b169d114",
-    "url": "/img/card2.c421e57f.png"
+    "revision": "aa0488a805740724f32b56a11b4e1cd4",
+    "url": "/img/card2.aa0488a8.svg"
   },
   {
-    "revision": "8dc2c40e00a8ed6dd67d0c44d9b4bd3a",
-    "url": "/img/card3.8dc2c40e.png"
+    "revision": "bfa0fa03317f5b5531adfc550620bbb1",
+    "url": "/img/card3.bfa0fa03.svg"
   },
   {
-    "revision": "2f8f153e593a388ca57c84920a88c7c1",
-    "url": "/img/card4.2f8f153e.png"
+    "revision": "665d9572d21d590d48230bd963c07ffb",
+    "url": "/img/card4.665d9572.svg"
   },
   {
-    "revision": "815cf357fd34df09f503986926a3f49d",
-    "url": "/img/card5.815cf357.png"
+    "revision": "45320c1880e992cd9c014cf0446c4386",
+    "url": "/img/card5.45320c18.svg"
   },
   {
-    "revision": "36e30923d94b88ecebd7f35a151b99b7",
-    "url": "/img/card6.36e30923.png"
+    "revision": "d2e67750e30f78d339fdbcc36414e343",
+    "url": "/img/card6.d2e67750.svg"
   },
   {
-    "revision": "52ab8b2e3517199d0a927c7bcd560216",
-    "url": "/img/card7.52ab8b2e.png"
+    "revision": "2301f55c7079b8f3d408cd2dbbab6c1a",
+    "url": "/img/card7.2301f55c.svg"
   },
   {
-    "revision": "908067b300c784d11375b8abe07c1c6c",
-    "url": "/img/card8.908067b3.png"
+    "revision": "990a70bfc2bd2b5c0e597fcc61428cb9",
+    "url": "/img/card8.990a70bf.svg"
   },
   {
-    "revision": "819735c6b7a2a56fc0827af3e4b6d37c",
-    "url": "/img/card9.819735c6.png"
+    "revision": "79896f0dda32c896c7b31eb9de7e9245",
+    "url": "/img/card9.79896f0d.svg"
   },
   {
-    "revision": "d9e2c53392b8e5481b19490fd9c7cfea",
-    "url": "/img/cardmagic.d9e2c533.png"
+    "revision": "0ea70d0dfd95f9cd76d001422d44a725",
+    "url": "/img/cardmagic.0ea70d0d.svg"
   },
   {
     "revision": "2703327e1dfb501ea0e1b915a8085c16",
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/text.5b98cbdd.png"
   },
   {
-    "revision": "bdec6945ac585f629b5f67164f0856dd",
+    "revision": "17844caf39921b9843f141821b40a326",
     "url": "/index.html"
   },
   {
-    "revision": "96f366d23a1fb0df7cd7",
-    "url": "/js/app.1ad22afe.js"
+    "revision": "697eac0bd53cd78c242a",
+    "url": "/js/app.e06b0328.js"
   },
   {
     "revision": "b5a59d727c191526be81",
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   }
 ]);
