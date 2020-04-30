@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddd42447357359662e91",
-    "url": "/css/app.1a94f5f6.css"
+    "revision": "8c6bfdc9546f22342926",
+    "url": "/css/app.f464b0df.css"
   },
   {
     "revision": "e3291f33a1ec2425a17ac70be005d67b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/1580653594_3-p-foni-s-teksturoi-pergamentnogo-lista-9.20118a32.jpg"
   },
   {
-    "revision": "df0f9a42135538b5bec3e6a5f815226f",
-    "url": "/img/card1.df0f9a42.svg"
+    "revision": "da844deb1a1b05763ae1a1cdcf2c02a4",
+    "url": "/img/card1.da844deb.svg"
   },
   {
     "revision": "818cfa67b2c9a86bac39a5616caf12f0",
@@ -96,20 +96,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/ico96.png"
   },
   {
-    "revision": "f6f30ce801253e6301633abaf801ec65",
-    "url": "/img/pennant.f6f30ce8.png"
+    "revision": "e7561ee0b69861f4f091428ae45c8627",
+    "url": "/img/pennant.e7561ee0.svg"
+  },
+  {
+    "revision": "0774b24f3e9f185ca84d2203777f4626",
+    "url": "/img/sold.0774b24f.svg"
   },
   {
     "revision": "5b98cbdda4c9bd057ddc5f381dcfd361",
     "url": "/img/text.5b98cbdd.png"
   },
   {
-    "revision": "3b3978e44085f99126cb9e2929218cb7",
+    "revision": "bba5dffc3c7f38691792472a9280d574",
     "url": "/index.html"
   },
   {
-    "revision": "ddd42447357359662e91",
-    "url": "/js/app.c169e48b.js"
+    "revision": "8c6bfdc9546f22342926",
+    "url": "/js/app.7987796a.js"
   },
   {
     "revision": "b5a59d727c191526be81",
