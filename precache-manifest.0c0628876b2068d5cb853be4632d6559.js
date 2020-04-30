@@ -1,55 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "697eac0bd53cd78c242a",
-    "url": "/css/app.185aadf7.css"
+    "revision": "5daf92791b87115e8689",
+    "url": "/css/app.1a94f5f6.css"
   },
   {
     "revision": "e3291f33a1ec2425a17ac70be005d67b",
     "url": "/fonts/10467.e3291f33.ttf"
   },
   {
+    "revision": "7723f409d1a139258af68f550427b59c",
+    "url": "/fonts/10468.7723f409.ttf"
+  },
+  {
     "revision": "20118a32cdc94c9e886ddb41c8fe4111",
     "url": "/img/1580653594_3-p-foni-s-teksturoi-pergamentnogo-lista-9.20118a32.jpg"
   },
   {
-    "revision": "1fba562cbf4a1ca5667bcb8e7067d403",
-    "url": "/img/card1.1fba562c.svg"
+    "revision": "df0f9a42135538b5bec3e6a5f815226f",
+    "url": "/img/card1.df0f9a42.svg"
   },
   {
-    "revision": "aa0488a805740724f32b56a11b4e1cd4",
-    "url": "/img/card2.aa0488a8.svg"
+    "revision": "818cfa67b2c9a86bac39a5616caf12f0",
+    "url": "/img/card2.818cfa67.svg"
   },
   {
-    "revision": "bfa0fa03317f5b5531adfc550620bbb1",
-    "url": "/img/card3.bfa0fa03.svg"
+    "revision": "21d47614024ba9b33a4e175c105470e8",
+    "url": "/img/card3.21d47614.svg"
   },
   {
-    "revision": "665d9572d21d590d48230bd963c07ffb",
-    "url": "/img/card4.665d9572.svg"
+    "revision": "c89337c46e61b59e2674055c8243bc6f",
+    "url": "/img/card4.c89337c4.svg"
   },
   {
-    "revision": "45320c1880e992cd9c014cf0446c4386",
-    "url": "/img/card5.45320c18.svg"
+    "revision": "1869fc5f1ecd78cfc472b542eef89fa0",
+    "url": "/img/card5.1869fc5f.svg"
   },
   {
-    "revision": "d2e67750e30f78d339fdbcc36414e343",
-    "url": "/img/card6.d2e67750.svg"
+    "revision": "3f7e7a4a227cafec70ee8063a2125f30",
+    "url": "/img/card6.3f7e7a4a.svg"
   },
   {
-    "revision": "2301f55c7079b8f3d408cd2dbbab6c1a",
-    "url": "/img/card7.2301f55c.svg"
+    "revision": "87d4eba916e5239227120d521c44a6e1",
+    "url": "/img/card7.87d4eba9.svg"
   },
   {
-    "revision": "990a70bfc2bd2b5c0e597fcc61428cb9",
-    "url": "/img/card8.990a70bf.svg"
+    "revision": "e4d54b7bf9449aa86b54d7d14704e913",
+    "url": "/img/card8.e4d54b7b.svg"
   },
   {
-    "revision": "79896f0dda32c896c7b31eb9de7e9245",
-    "url": "/img/card9.79896f0d.svg"
+    "revision": "aed1fe87c976bdef4a214d6beed323a2",
+    "url": "/img/card9.aed1fe87.svg"
   },
   {
-    "revision": "0ea70d0dfd95f9cd76d001422d44a725",
-    "url": "/img/cardmagic.0ea70d0d.svg"
+    "revision": "455d4d4b2b07c3078e5e0d1d6d7e9c11",
+    "url": "/img/cardmagic.455d4d4b.svg"
   },
   {
     "revision": "2703327e1dfb501ea0e1b915a8085c16",
@@ -100,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/text.5b98cbdd.png"
   },
   {
-    "revision": "17844caf39921b9843f141821b40a326",
+    "revision": "a0fa98a4d5fe90471195c35121477115",
     "url": "/index.html"
   },
   {
-    "revision": "697eac0bd53cd78c242a",
-    "url": "/js/app.e06b0328.js"
+    "revision": "5daf92791b87115e8689",
+    "url": "/js/app.216f21eb.js"
   },
   {
     "revision": "b5a59d727c191526be81",
