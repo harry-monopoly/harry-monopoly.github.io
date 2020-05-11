@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8d5cce53cd0d32915c8",
-    "url": "/css/app.abfa444f.css"
+    "revision": "567c4f8446d28107d169",
+    "url": "/css/app.431e0ac0.css"
   },
   {
     "revision": "e3291f33a1ec2425a17ac70be005d67b",
@@ -16,44 +16,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/1580653594_3-p-foni-s-teksturoi-pergamentnogo-lista-9.20118a32.jpg"
   },
   {
-    "revision": "da844deb1a1b05763ae1a1cdcf2c02a4",
-    "url": "/img/card1.da844deb.svg"
+    "revision": "86a98f184a38aa5eeee5712dfb7f8130",
+    "url": "/img/card1.86a98f18.svg"
   },
   {
-    "revision": "818cfa67b2c9a86bac39a5616caf12f0",
-    "url": "/img/card2.818cfa67.svg"
+    "revision": "670a56974010710233e91285cf353147",
+    "url": "/img/card2.670a5697.svg"
   },
   {
-    "revision": "21d47614024ba9b33a4e175c105470e8",
-    "url": "/img/card3.21d47614.svg"
+    "revision": "96dd46822f9048e2984b409e8d6a75f0",
+    "url": "/img/card3.96dd4682.svg"
   },
   {
-    "revision": "c89337c46e61b59e2674055c8243bc6f",
-    "url": "/img/card4.c89337c4.svg"
+    "revision": "d1975d71f796ab9d0878ec8c58e5553b",
+    "url": "/img/card4.d1975d71.svg"
   },
   {
-    "revision": "1869fc5f1ecd78cfc472b542eef89fa0",
-    "url": "/img/card5.1869fc5f.svg"
+    "revision": "84946f4235c1babedb95426947ca011d",
+    "url": "/img/card5.84946f42.svg"
   },
   {
-    "revision": "3f7e7a4a227cafec70ee8063a2125f30",
-    "url": "/img/card6.3f7e7a4a.svg"
+    "revision": "c503c09f31429ecd9adf102a8d9062e4",
+    "url": "/img/card6.c503c09f.svg"
   },
   {
-    "revision": "87d4eba916e5239227120d521c44a6e1",
-    "url": "/img/card7.87d4eba9.svg"
+    "revision": "fa6a48c50ec1b617ef94f5fcf0c409d4",
+    "url": "/img/card7.fa6a48c5.svg"
   },
   {
-    "revision": "e4d54b7bf9449aa86b54d7d14704e913",
-    "url": "/img/card8.e4d54b7b.svg"
+    "revision": "efec349aaa8e9a9932a8cf061e7e44f3",
+    "url": "/img/card8.efec349a.svg"
   },
   {
-    "revision": "aed1fe87c976bdef4a214d6beed323a2",
-    "url": "/img/card9.aed1fe87.svg"
+    "revision": "4fe915c4a4eb290c6a4e661296641519",
+    "url": "/img/card9.4fe915c4.svg"
   },
   {
-    "revision": "455d4d4b2b07c3078e5e0d1d6d7e9c11",
-    "url": "/img/cardmagic.455d4d4b.svg"
+    "revision": "81b78a5118fd5a7bb714912d42ea9a96",
+    "url": "/img/cardmagic.81b78a51.svg"
   },
   {
     "revision": "2703327e1dfb501ea0e1b915a8085c16",
@@ -96,24 +96,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/ico96.png"
   },
   {
-    "revision": "e7561ee0b69861f4f091428ae45c8627",
-    "url": "/img/pennant.e7561ee0.svg"
+    "revision": "af74a67855ceafeefb8bacf420153fd4",
+    "url": "/img/pennant.af74a678.svg"
   },
   {
-    "revision": "0774b24f3e9f185ca84d2203777f4626",
-    "url": "/img/sold.0774b24f.svg"
+    "revision": "55ad28a8e9fb71054ca034d699fa349b",
+    "url": "/img/sold.55ad28a8.svg"
   },
   {
     "revision": "5b98cbdda4c9bd057ddc5f381dcfd361",
     "url": "/img/text.5b98cbdd.png"
   },
   {
-    "revision": "7dc7c32fcea3355d735d99b24a79b9d9",
+    "revision": "d7c435ee32a9f399170deb747f4a12a3",
     "url": "/index.html"
   },
   {
-    "revision": "a8d5cce53cd0d32915c8",
-    "url": "/js/app.75122839.js"
+    "revision": "567c4f8446d28107d169",
+    "url": "/js/app.4b406981.js"
   },
   {
     "revision": "b5a59d727c191526be81",
@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   }
 ]);
